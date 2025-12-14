@@ -4,7 +4,7 @@ A YOLOv11 model that can tell you to close the door if you forgot to do it by pl
 一個我花大概三天訓練的Yolo模型，如果你忘記關門他會播一段音樂叫你去關。
 
 <h1>How to use 如何使用</h1>
-Just download all the file in source code, I'm just too lazy to add the release.
+Just download all the file in source code, I'm just too lazy to create the release.
 </br>
 把所有檔案下載下來就可以用了，我懶得新增release。
 
